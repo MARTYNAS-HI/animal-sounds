@@ -1,0 +1,35 @@
+body {
+    background: #ffdd99;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.header_div {
+    background-color: darkcyan;
+    color: deeppink;
+
+}
+
+.header_div p {
+    font-family: monospace;
+    font-weight: bolder;
+    letter-spacing: 4px;
+    font-size: 18px;
+}
+
+.main_div button {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    background-color: darkcyan;
+    color: deeppink;
+    width: 101%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
